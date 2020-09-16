@@ -17,10 +17,10 @@ Your final report should include each of the following:
 
 ### Purchasing Analysis (Total)
 
-* Number of Unique Items - .unique
-* Average Purchase Price -.mean
-* Total Number of Purchases- .sum?
-* Total Revenue - .sum?
+* Number of Unique Items
+* Average Purchase Price 
+* Total Number of Purchases
+* Total Revenue 
 
 ### Gender Demographics
 
